@@ -2,6 +2,8 @@
 
 Dieses Repository enthält eine Sammlung vielseitiger und inspirierender ChatGPT-Prompts, die dir helfen können, kreative Lösungen zu entwickeln und alltägliche Herausforderungen effizienter zu bewältigen. 💡 Egal, ob du gerade erst anfängst oder bereits ein erfahrener Profi bist – diese Prompts unterstützen dich dabei, neue Denkansätze zu finden und deine Arbeit produktiver zu gestalten. 🚀
 
+Die Liste ist in verschiedene Kategorien unterteilt: **[Prompts für Entwickler, Studenten, Marketer und Content Creators]**. Egal, in welchem Bereich du tätig bist, hier ist für jeden etwas dabei! 😊
+
 Tauchen wir ein in diese inspirierenden ChatGPT-Prompts und bringen deine Kreativität auf das nächste Level! 🌊
 
 ---
@@ -34,9 +36,9 @@ Tauchen wir ein in diese inspirierenden ChatGPT-Prompts und bringen deine Kreati
 Nutzen Sie diesen Prompt, um den gegebenen Code allgemein zu verbessern. Der Fokus liegt darauf, Lesbarkeit, Wartbarkeit und Effizienz zu erhöhen, ohne die bestehende Funktionalität zu verändern.
 
 #### 🎯 Prompt:
-> Refaktoriere den folgenden Code, um die Lesbarkeit, Effizienz und Wartbarkeit zu verbessern, ohne die Funktionalität zu ändern. Nutze moderne Best Practices und kommentiere wichtige Änderungen.  
 > **Code:**  
 > ```
+> Refaktoriere den folgenden Code, um die Lesbarkeit, Effizienz und Wartbarkeit zu verbessern, ohne die Funktionalität zu ändern. Nutze moderne Best Practices und kommentiere wichtige Änderungen.  
 > // Dein Code hier
 > ```
 
@@ -48,9 +50,9 @@ Nutzen Sie diesen Prompt, um den gegebenen Code allgemein zu verbessern. Der Fok
 Dieser Prompt dient dazu, alten Code zu modernisieren und an aktuelle Technologien, Standards und Best Practices anzupassen.
 
 #### 🎯 Prompt:
-> Modernisiere den folgenden Code, indem du aktuelle Technologien, Frameworks oder Bibliotheken verwendest. Passe die Struktur und Syntax an moderne Standards an, ohne die ursprüngliche Funktionalität zu verlieren.  
 > **Code:**  
 > ```
+> Modernisiere den folgenden Code, indem du aktuelle Technologien, Frameworks oder Bibliotheken verwendest. Passe die Struktur und Syntax an moderne Standards an, ohne die ursprüngliche Funktionalität zu verlieren.  
 > // Dein Code hier
 > ```
 
@@ -62,9 +64,9 @@ Dieser Prompt dient dazu, alten Code zu modernisieren und an aktuelle Technologi
 Hiermit können Sie monolithischen Code in kleinere, modularere Methoden aufteilen, um die Lesbarkeit und Wiederverwendbarkeit zu verbessern.
 
 #### 🎯 Prompt:
-> Teile den folgenden Code in kleinere, gut benannte Methoden auf, um die Lesbarkeit und Wiederverwendbarkeit zu erhöhen. Stelle sicher, dass die Funktionen unabhängig und modular sind.  
 > **Code:**  
 > ```
+> Teile den folgenden Code in kleinere, gut benannte Methoden auf, um die Lesbarkeit und Wiederverwendbarkeit zu erhöhen. Stelle sicher, dass die Funktionen unabhängig und modular sind.  
 > // Dein Code hier
 > ```
 
@@ -76,9 +78,9 @@ Hiermit können Sie monolithischen Code in kleinere, modularere Methoden aufteil
 Optimieren Sie den Code, um die Laufzeit oder Ressourcennutzung zu verbessern, ohne die Funktionalität zu verändern.
 
 #### 🎯 Prompt:
-> Optimiere den folgenden Code für eine bessere Performance. Finde und behebe Engpässe oder ineffiziente Operationen, ohne die Funktionalität zu ändern.  
 > **Code:**  
 > ```
+> Optimiere den folgenden Code für eine bessere Performance. Finde und behebe Engpässe oder ineffiziente Operationen, ohne die Funktionalität zu ändern.  
 > // Dein Code hier
 > ```
 
@@ -90,9 +92,9 @@ Optimieren Sie den Code, um die Laufzeit oder Ressourcennutzung zu verbessern, o
 Fügen Sie einer bestehenden Funktion neue Parameter hinzu, ohne bestehende Funktionalitäten zu beeinträchtigen.
 
 #### 🎯 Prompt:
-> Füge der folgenden Funktion einen neuen Parameter hinzu, um die Flexibilität zu erhöhen. Passe alle relevanten Bereiche im Code entsprechend an.  
 > **Code:**  
 > ```
+> Füge der folgenden Funktion einen neuen Parameter hinzu, um die Flexibilität zu erhöhen. Passe alle relevanten Bereiche im Code entsprechend an.  
 > // Dein Code hier
 > ```
 
@@ -104,9 +106,9 @@ Fügen Sie einer bestehenden Funktion neue Parameter hinzu, ohne bestehende Funk
 Verbessern Sie den Code, indem Sie bewährte Programmierprinzipien und -praktiken hinzufügen.
 
 #### 🎯 Prompt:
-> Verbessere den folgenden Code, indem du Coding Best Practices anwendest (z. B. DRY, KISS, SOLID). Stelle sicher, dass der Code robust und wartbar ist.  
 > **Code:**  
 > ```
+> Verbessere den folgenden Code, indem du Coding Best Practices anwendest (z. B. DRY, KISS, SOLID). Stelle sicher, dass der Code robust und wartbar ist.  
 > // Dein Code hier
 > ```
 
@@ -118,9 +120,9 @@ Verbessern Sie den Code, indem Sie bewährte Programmierprinzipien und -praktike
 Passen Sie den Code an bestimmte Coding Style Guidelines (z. B. PEP8, Airbnb Style Guide) an.
 
 #### 🎯 Prompt:
-> Formatiere den folgenden Code, damit er den Coding Style Guidelines (z. B. [hier spezifizieren]) entspricht. Füge gegebenenfalls Kommentare hinzu, um die Struktur zu erklären.  
 > **Code:**  
 > ```
+> Formatiere den folgenden Code, damit er den Coding Style Guidelines (z. B. [hier spezifizieren]) entspricht. Füge gegebenenfalls Kommentare hinzu, um die Struktur zu erklären.  
 > // Dein Code hier
 > ```
 
@@ -132,9 +134,9 @@ Passen Sie den Code an bestimmte Coding Style Guidelines (z. B. PEP8, Airbnb Sty
 Analysieren und beheben Sie Fehler oder Inkonsistenzen im Code.
 
 #### 🎯 Prompt:
-> Analysiere den folgenden Code, um Fehler oder Inkonsistenzen zu erkennen und zu beheben. Stelle sicher, dass der Code wie vorgesehen funktioniert.  
 > **Code:**  
 > ```
+> Analysiere den folgenden Code, um Fehler oder Inkonsistenzen zu erkennen und zu beheben. Stelle sicher, dass der Code wie vorgesehen funktioniert.  
 > // Dein Code hier
 > ```
 
@@ -146,9 +148,9 @@ Analysieren und beheben Sie Fehler oder Inkonsistenzen im Code.
 Debuggen Sie React-Komponenten, um deren Funktionsweise zu analysieren und Probleme zu beheben.
 
 #### 🎯 Prompt:
-> Debugge die folgende React-Komponente und behebe alle gefundenen Probleme. Erkläre, welche Änderungen vorgenommen wurden.  
 > **Code:**  
 > ```
+> Debugge die folgende React-Komponente und behebe alle gefundenen Probleme. Erkläre, welche Änderungen vorgenommen wurden.  
 > // Deine React-Komponente hier
 > ```
 
@@ -159,10 +161,10 @@ Debuggen Sie React-Komponenten, um deren Funktionsweise zu analysieren und Probl
 #### 📜 Beschreibung:
 Generieren Sie Unit Tests für bestehenden Code, um dessen Funktionalität zu verifizieren.
 
-#### 🎯 Prompt (Deutsch):
-> Schreibe Unit Tests für den folgenden Code. Decke dabei möglichst viele Szenarien ab und dokumentiere die Testfälle.  
+#### 🎯 Prompt:
 > **Code:**  
 > ```
+> Schreibe Unit Tests für den folgenden Code. Decke dabei möglichst viele Szenarien ab und dokumentiere die Testfälle.  
 > // Dein Code hier
 > ```
 
@@ -174,9 +176,9 @@ Generieren Sie Unit Tests für bestehenden Code, um dessen Funktionalität zu ve
 Konvertieren Sie Code von einer Sprache oder Version in eine andere, z. B. von TypeScript in JavaScript oder von ES6 in ES5.
 
 #### 🎯 Prompt:
-> Transpiliere den folgenden Code in die gewünschte Sprache oder Version. Erkläre alle vorgenommenen Änderungen.  
 > **Code:**  
 > ```
+> Transpiliere den folgenden Code in die gewünschte Sprache oder Version. Erkläre alle vorgenommenen Änderungen.  
 > // Dein Code hier
 > ```
 
@@ -188,8 +190,8 @@ Konvertieren Sie Code von einer Sprache oder Version in eine andere, z. B. von T
 Passen Sie bestehenden HTML- und CSS-Code an, um ein responsives Design zu unterstützen.
 
 #### 🎯 Prompt:
-> Passe den folgenden HTML- und CSS-Code so an, dass er ein responsives Design unterstützt. Nutze dafür moderne Techniken wie Media Queries oder Flexbox.  
 > **Code:**  
+> Passe den folgenden HTML- und CSS-Code so an, dass er ein responsives Design unterstützt. Nutze dafür moderne Techniken wie Media Queries oder Flexbox.  
 > ```
 > // HTML- und CSS-Code hier
 > ```
@@ -201,10 +203,10 @@ Passen Sie bestehenden HTML- und CSS-Code an, um ein responsives Design zu unter
 #### 📜 Beschreibung:
 Ermöglichen Sie die Unterstützung mehrerer Sprachen im Code.
 
-#### 🎯 Prompt (Deutsch):
-> Ergänze den folgenden Code mit Funktionen zur Internationalisierung (i18n). Stelle sicher, dass Texte einfach übersetzt werden können.  
+#### 🎯 Prompt:
 > **Code:**  
 > ```
+> Ergänze den folgenden Code mit Funktionen zur Internationalisierung (i18n). Stelle sicher, dass Texte einfach übersetzt werden können.  
 > // Dein Code hier
 > ```
 
@@ -216,8 +218,8 @@ Ermöglichen Sie die Unterstützung mehrerer Sprachen im Code.
 Fügen Sie sinnvolle Kommentare hinzu, um den Code verständlicher zu machen.
 
 #### 🎯 Prompt:
-> Ergänze den folgenden Code mit klaren, sinnvollen Kommentaren, die dessen Funktionsweise erklären.  
 > **Code:**  
 > ```
+> Ergänze den folgenden Code mit klaren, sinnvollen Kommentaren, die dessen Funktionsweise erklären.  
 > // Dein Code hier
-> 
+> ```
